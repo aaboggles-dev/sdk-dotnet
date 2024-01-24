@@ -65,8 +65,8 @@ When using this SDK, downloading the Authorize.Net sample code repository is rec
 The repository contains comprehensive sample code for common uses of the Authorize.Net API.
 
 The API Reference contains details and examples of the structure and formatting of the Authorize.Net API.
-* [Developer Center API Reference](http://developer.authorize.net/api/reference/index.html)
-
+* [Developer Center API Reference](https://developer.authorize.net/api/reference/index.html)
+                                   
 Use the examples in the API Reference to determine which methods and information to include in an API request using this SDK.
 
 ## Create a Chase Pay Transaction
